@@ -1,0 +1,9 @@
+.block {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+
+.active {
+    background-color: red;
+}
